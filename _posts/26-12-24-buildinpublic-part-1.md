@@ -6,21 +6,21 @@ image: /images/startup-is-hard.jpeg
 
 Hi all, very long-time no post, I'm back with a new series. I've been thinking about this for a while and I think it's time to share with you all.
 
-As you know, my dream is to be an entrepreneur and I've been working on a few side-projects in the past. But, you know, starting a business is hard, especially when you're doing it alone. I've been struggling with this for a while, I nearly burnt out. But, I'm not giving up and now, with the new idea, I decided to start a new project. And I want to build it in public. Inspired by [a series of Luca Netz ( CEO of Pudgy Penguins)](https://www.youtube.com/@lucanetzofficial/playlists), I watched his videos on YouTube, and I think it's so great to share with the community about the journey of building a product.
+As you know, my dream is to be an entrepreneur and I've been working on a few side-projects in the past. But,starting a business is hard, especially when you're doing it alone. I've been struggling with this for a while, I nearly burnt out. But, I'm not giving up and now, with the new idea, I decided to start a new project. And I want to build it in public. Inspired by [a series of Luca Netz ( CEO of Pudgy Penguins)](https://www.youtube.com/@lucanetzofficial/playlists), I watched his videos on YouTube, and I think it's so great to share with the community about the journey of building a product.
 
 ## Dream
-You know, I'm currently working as a blockchain engineer in a one of the biggest company in VietNam, and I'm so grateful for that. But, the dream is still there, I want to build my own product. I decided to start this project beside my full-time job at the company. You know, starting a business is hard, and I don't want to quit my job to start a business. Maybe it will make the journey harder and slower, but I think it's worth it. Full-time job will help me to pay the bills and this project will help me to learn and grow.
+I’m currently working as a blockchain engineer at one of the largest companies in Vietnam, and I’m truly grateful for the opportunity. However, my dream of building my own product remains alive. I’ve decided to pursue this project alongside my full-time job. While balancing both may slow the journey, it provides the stability I need to support myself financially while allowing me to focus on learning and growing through this endeavor.
 
-This project will be build in my free time, after work, on weekends, and holidays. Try to balance between work and life, and I hope I can make it.
+This project will be built in my free time, after work, on weekends, and holidays. Try to balance between work and life, and I hope I can make it.
 
 ## Team-up
-After few failed projects, I realized that the good team is the key to success, the most valuable asset of a startup. I can't do it alone, I need a team. My friends, Miên and Phát, are also sharing the same dream with me. They have worked with me on a few projects before. Don't like other teams, we start this journey before having any ideas (LOL), but we know that we have the same vision and dream that make the world better.
+After few failed projects, I realized that the good team is the key to success, the most valuable asset of a startup. I can't do it alone, I need a team. My friends, Miên and Phát, are also sharing the same dream with me. They have worked with me on a few projects before. Unlike other teams, we start this journey before having any ideas (LOL), but we know that we have the same vision and dream that make the world better.
 
 About Miên, he has been my friend for 5 years, he is a mobile developer, me and him have been working together in the graduated project, and we have a good relationship. He is a good developer, and he has a lot of experience in mobile development. He is a good fit for the team.
 
 ![Mien](/images/Mien.png)
 
-About Phát, he is a backend developer, he is friend of Miên, and he has been working with us in the past. Now, he is studying in master degree. He is a good developer, and he has a lot of experience in backend development. He is a good fit for the team.
+About Phát, he is a backend developer, he is a friend of Miên, and he has been working with us in the past. Now, he is studying in master degree. He is a good developer, and he has a lot of experience in backend development. He is a good fit for the team.
 
 ![Phat](/images/Phat.png)
 
@@ -38,7 +38,7 @@ Competing with a thousand of players in the market is impossible. We're just a s
 We have been working in the blockchain industry for a while, and we see the potential of web3. We believe that web3 will change the world, and we want to be a part of it. The growth of web3 is really fast, and we see a lot of opportunities here. We want to build something that can help people on web3, we think it's a good start.
 
 ### The problem
-Web3 is great, but still have a lot of issues. One of them is the privacy, but the difficult thing is that people don't really care about privacy. They know that every action they make on-chain is being tracked, but they don't care. But somewhere, there are still people who really care about it, that why Tornado Cash is so popular. But Tornado Cash is not easy to use. Even me as a blockchain engineer, I still have to spend a lot of time to be comfortable with it. I care about privacy, but I don't want to use Tornado Cash it's require a lot of effort. That's the problem we want to solve.
+Web3 is great, but still have a lot of issues. One of them is the privacy, but the difficult thing is that people don't really care about privacy. They know that every action they make on-chain is being tracked, but they don't care. But somewhere, there are still people who really care about it, that why Tornado Cash is so popular. But Tornado Cash is not easy to use. Even me as a blockchain engineer, I still have to spend a lot of time to be comfortable with it. I care about privacy, but I don't want to use Tornado Cash it require a lot of effort. That's the problem we want to solve.
 
 We target to to build something that can help people to protect their privacy on web3, but it should be easy to use, and it should be for everyone.
 
